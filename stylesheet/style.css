@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* navbar styling start */
+.navbar{
+    background-color: #ecf0f1;
+}
+.navbar .logo{
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+}
+.nav-link:hover{
+    background-color:#0d6efd;
+    color: white;
+}
+.navbar .btn-outline-primary{
+    color: #02090a;
+    font-weight: 600;
+}
+.navbar .btn-outline-primary:hover{
+    color: #ecf0f1;
+}
+/* navbar styling end */
+ 
+/* carousel styling starts */
+.carousel-item img{
+    width: 100%;
+    height: 100vh;
+}
+/* carousel styling ends */
+
+/* about section start */
+.about{
+    background-color: rgb(240, 238, 238);
+}
+.about h1{
+    font-family: "Caveat", cursive;
+}
+/* about section End */
+
+/* project section start */
+.project{
+    background-color: #f1f3f5;
+}
+.project img{
+    opacity: 0.8;
+}
+.project .card:hover{
+opacity: 1;
+transform: scale(1.1);
+border-radius: 1rem;
+overflow: hidden;
+}
+
+/* project section end */
+
+/* footer section start */
+footer{
+    background-color: #02090a;
+}
+/* footer section ends */
