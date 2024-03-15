@@ -48,9 +48,6 @@
 .project{
     background-color: #f1f3f5;
 }
-.project img{
-    opacity: 0.8;
-}
 .project .card:hover{
 opacity: 1;
 transform: scale(1.1);
