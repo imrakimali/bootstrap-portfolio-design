@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 /* navbar styling start */
+/* .navbar-toggler{
+ color: #02090a;
+} */
 .navbar{
     background-color: #ecf0f1;
 }
