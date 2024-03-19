@@ -46,14 +46,20 @@
 /* about section End */
 
 /* project section start */
-.project{
-    background-color: #f1f3f5;
+.pg-hover .p-hover .card{
+    border-radius: 20px;
+    box-shadow: 4px 4px rgb(3, 253, 3);
 }
-.project .card:hover{
-opacity: 1;
-transform: scale(1.1);
+
+.pg-hover .p-hover img{
+border-radius: 15px;
+}
+
+.pg-hover .p-hover:hover{
+transform: scale(0.9);
 border-radius: 1rem;
 overflow: hidden;
+box-shadow: 5px 5px 5px rgb(54, 226, 62);
 }
 
 /* project section end */
