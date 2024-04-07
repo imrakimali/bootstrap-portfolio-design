@@ -48,7 +48,7 @@
 /* project section start */
 .pg-hover .p-hover .card{
     border-radius: 20px;
-    box-shadow: 4px 4px rgb(3, 253, 3);
+    box-shadow: 2px 2px rgb(72, 153, 247);
 }
 
 .pg-hover .p-hover img{
@@ -56,10 +56,11 @@ border-radius: 15px;
 }
 
 .pg-hover .p-hover:hover{
-transform: scale(0.9);
+transform: scale(0.8);
 border-radius: 1rem;
 overflow: hidden;
-box-shadow: 5px 5px 5px rgb(54, 226, 62);
+box-shadow: 5px 5px 5px 5px rgb(2, 20, 26);
+transition: 2s;
 }
 
 /* project section end */
