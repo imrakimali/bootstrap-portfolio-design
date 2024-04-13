@@ -61,6 +61,7 @@ border-radius: 1rem;
 overflow: hidden;
 box-shadow: 5px 5px 5px 5px rgb(2, 20, 26);
 transition: 2s;
+cursor: cell;
 }
 
 /* project section end */
