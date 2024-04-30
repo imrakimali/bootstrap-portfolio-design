@@ -70,3 +70,14 @@ footer{
     background-color: #02090a;
 }
 /* footer section ends */
+
+footer div a i {
+    border: 2px solid white;
+    border-radius: 50%;
+}
+footer div a i:hover {
+   
+   background-color: #0d6efd;
+    color: white;
+}
+
