@@ -48,20 +48,23 @@
 /* project section start */
 .pg-hover .p-hover .card{
     border-radius: 20px;
-    box-shadow: 3px 3px 3px  3px rgb(3, 78, 163);
+    color: black;
+
 }
 
 .pg-hover .p-hover img{
 border-radius: 15px;
-
 }
 
+
 .pg-hover .p-hover:hover{
-transform: scale(0.8);
+transform: scale(1.1);
 border-radius: 1rem;
 overflow: hidden;
-box-shadow: 5px 5px 4px 4px rgb(8, 91, 245);
+box-shadow: 0 0 5px rgb(55, 1, 250), 0 0 25px rgb(0, 38, 255);
+animation: slideTop 1s ease forwards;
 transition: 1s;
+
 }
 .img-radious a img{
     border-radius: 50%;
@@ -112,3 +115,5 @@ footer div a i:hover {
   #round img{
     border-radius: 50%;
   }
+
+
